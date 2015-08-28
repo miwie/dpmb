@@ -15,7 +15,7 @@ html: debian-paketmanagement.html
 
 epub: debian-paketmanagement.epub
 %.epub: %.txt $(DEFAULTDEPENDENCIES)
-	a2x $(VERBOSE) -f epub $(DEFAULTOPTIONS) $<
+	a2x $(VERBOSE) -a docinfo -f epub $(DEFAULTOPTIONS) $<
 
 pdf: debian-paketmanagement.pdf
 %.pdf: %.txt $(DEFAULTDEPENDENCIES)
