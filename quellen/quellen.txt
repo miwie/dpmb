@@ -14,7 +14,7 @@
 
 - [[[Amberg-Linux-Server-Praxishandbuch]]] Eric Amberg: Linux-Server mit Debian 6 GNU/Linux: Das   umfassende Praxishandbuch -- Aktuell für die Versionen Debian 6.0 (Squeeze) und Debian 5.0 (Lenny), mitp; Auflage: 2012 (24. April 2012), Sprache: Deutsch, ISBN-10: 3826655346, ISBN-13: 978-3826655340
 
-// - [[[Aoki-Debian-Referenz]]] Osamu Aoki: Debian Referenz, deutsche Übersetzung, http://www.debian.org/doc/manuals/debian-reference/index.de.html
+- [[[Aoki-Debian-Referenz]]] Osamu Aoki: Debian Referenz, deutsche Übersetzung, http://www.debian.org/doc/manuals/debian-reference/index.de.html
 
 - [[[Aoki-Debian-Referenz-Mirror]]] Osamu Aoki: Debian Referenz, deutsche Übersetzung, http://qref.sourceforge.net/quick/index.de.html
 
@@ -189,6 +189,8 @@
 
 - [[[Debian-Package-Basics]]] What is a Debian package? http://www.debian.org/doc/manuals/debian-faq/ch-pkg_basics.en.html
 
+- [[[Debian-Paketliste]]] Debian-Webseite, Paketliste, https://packages.debian.org/de/jessie/
+
 - [[[Debian-Paketsuche]]] Debian-Webseite, Paketsuche, https://www.debian.org/distrib/packages#search_contents
 
 - [[[Debian-Paket-adept]]] Debian-Paket 'adept', http://packages.debian.org/adept
@@ -346,6 +348,8 @@
 
 - [[[Debian-Paket-util-linux]]] Debian-Paket 'util-linux', http://packages.debian.org/de/stable/util-linux
 
+- [[[Debian-Paket-vrms]]] Debian-Paket 'vrms', https://packages.debian.org/stable/vrms
+
 - [[[Debian-Paket-wajig]]] Debian-Paket 'wajig', http://packages.debian.org/de/stable/wajig
 
 - [[[Debian-Paket-wget]]] Debian-Paket 'wget', http://packages.debian.org/de/stable/wget
@@ -462,6 +466,8 @@
 - [[[github-pull-request]]] Pull-Request mitsamt Patch auf GitHub, https://github.com/dpmb/dpmb/compare
 
 - [[[GNU-Linux-Distribution-Timeline]]] GNU Linux Distribution Timeline, http://futurist.se/gldt
+
+- [[[GObject-Introspection]]] GObject Introspection Middleware, https://wiki.gnome.org/Projects/GObjectIntrospection
 
 - [[[Graphviz]]] Graphviz -- Graph Visualization Software, http://www.graphviz.org/
 
