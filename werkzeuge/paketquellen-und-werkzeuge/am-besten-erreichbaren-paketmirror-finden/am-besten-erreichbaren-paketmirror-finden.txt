@@ -20,19 +20,17 @@ benutzen.
 
 Anstatt diese Schritte aufwendig über die Kombination einzelner
 Werkzeuge wie `ping` oder `traceroute` zu ermitteln, sind hier
-`netselect`{empty}footnote:[http://packages.debian.org/de/stable/netselect]
-und
-`netselect-apt`{empty}footnote:[http://packages.debian.org/de/stable/netselect-apt]
-die besseren Mittel der Wahl. Damit finden Sie den Spiegelserver heraus,
-der netztechnisch von ihrem aktuellen Standort aus am besten erreichbar
-ist.
+`netselect` <<Debian-Paket-netselect>> und `netselect-apt`
+<<Debian-Paket-netselect-apt>> die besseren Mittel der Wahl. Damit
+finden Sie den Spiegelserver heraus, der netztechnisch von ihrem
+aktuellen Standort aus am besten erreichbar ist.
 
 // Stichworte für den Index
 (((Debianpaket, apt-spy)))
 Bis einschließlich Debian 7 _Wheezy_ war das Programm `apt-spy`
-{empty}footnote:[http://packages.debian.org/de/stable/apt-spy] fester
-Bestandteil der Veröffentlichung. Es wurde nicht in Debian 8 _Jessie_
-übernommen, steht jedoch weiterhin für _unstable_ zur Verfügung.
+<<Debian-Paket-apt-spy>> fester Bestandteil der Veröffentlichung. Es
+wurde nicht in Debian 8 _Jessie_ übernommen, steht jedoch weiterhin für
+_unstable_ zur Verfügung.
 
 // netselect und netselect-apt
 include::netselect.txt[]
