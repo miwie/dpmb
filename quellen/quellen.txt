@@ -295,6 +295,8 @@
 
 - [[[Debian-Paket-dpkg-www]]] Debian-Paket 'dpkg-www', https://packages.debian.org/de/stable/dpkg-www
 
+- [[[Debian-Paket-dwm]]] Debian-Paket 'dwm', http://packages.debian.org/de/stable/dwm
+
 - [[[Debian-Paket-galternatives]]] Debian-Paket 'galternatives', http://packages.debian.org/de/stable/galternatives
 
 - [[[Debian-Paket-gawk]]] Debian-Paket 'gawk', http://packages.debian.org/de/stable/gawk
@@ -440,6 +442,8 @@
 - [[[Debian-Wiki-multiarch]]] Debian Wiki: Debian multiarch support, https://wiki.debian.org/Multiarch
 
 - [[[Debian-Wiki-SecureApt]]] Debian Wiki: SecureApt, https://wiki.debian.org/SecureApt
+
+- [[[Debian-Wiki-Skype]]] Debian Wiki: Skype, https://wiki.debian.org/skype
 
 - [[[Debian-Wiki-WNPP]]] Debian Wiki: Work-Needing and Prospective Packages (WNPP), https://wiki.debian.org/WNPP
 
@@ -630,6 +634,8 @@
 - [[[SingleClickInstall]]], https://wiki.ubuntu.com/SingleClickInstall
 
 - [[[Skolelinux]]] Skolelinux, http://skolelinux.de/
+
+- [[[Skype]]] Skype, www.skype.com/
 
 - [[[SmartPM]]] Smart Package Manager, Projektseite, http://labix.org/smart
 
